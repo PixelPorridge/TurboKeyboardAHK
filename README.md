@@ -2,7 +2,7 @@
 So many keys seemingly so close, yet so far. I can't even count how many times I've attempted to input `_` and mispressed, inputting a `)` or `+` instead. Skill issue? Maybe. But wouldn't it be so much easier if the keys were just closer? Well, the future is here. No more leaving the home row. All keys, within reach. All power, in your hands. Welcome to Turbo Keyboard, where the speed of light is finally accessible.
 
 ## Installation
-Ensure you have AutoHotkey installed. You can find the download link here: https://www.autohotkey.com/ \
+Ensure you have AutoHotkey v2.0 installed. You can find the download link here: https://www.autohotkey.com/ \
 Then, simply place `turbo_keyboard.ahk` into your startup folder and the script will run automatically when your PC starts.
 > [!TIP]
 > Access the startup folder by opening the `Run` Windows application, then running `shell:startup`.
