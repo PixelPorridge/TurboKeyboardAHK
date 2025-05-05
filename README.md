@@ -9,9 +9,9 @@ Then, simply place `turbo_keyboard.ahk` into your startup folder and the script 
 
 ## Options
 **Toggle Script Suspension**\
-By default, all shortcuts are enabled. But sometimes you might not want them, like when you're playing games. You can toggle the script shortcuts by pressing <kbd>Alt+`</kbd>.
+By default, all shortcuts are enabled. But sometimes you might not want them, like when you're playing games. You can toggle the script shortcuts by pressing <kbd>Alt + `</kbd>.
 
-**Disable Tray Tip**\
+**Disable Tray Tip Notification**\
 By default, there will be a tray tip notification whenever you toggle the script suspension. If you find this annoying, you can turn it off my removing or commenting out the following code in the script:
 
 ```autohotkey
