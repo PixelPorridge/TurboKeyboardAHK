@@ -9,7 +9,7 @@ Then, simply place `turbo_keyboard.ahk` into your startup folder and the script 
 
 ## Options
 **Toggle Script Suspension**\
-By default, all shortcuts are enabled. But sometimes you might not want them, like when you're playing games. You can toggle the script shortcuts by pressing `` Alt+` ``.
+By default, all shortcuts are enabled. But sometimes you might not want them, like when you're playing games. You can toggle the script shortcuts by pressing <kbd>Alt+`</kbd>.
 
 **Disable Tray Tip**\
 By default, there will be a tray tip notification whenever you toggle the script suspension. If you find this annoying, you can turn it off my removing or commenting out the following code in the script:
@@ -26,7 +26,7 @@ TrayTip
 ```
 
 **Remap CapsLock to Escape**\
-By default, this is disabled. However, I've included a line of code (`CapsLock::Escape`{:.autohotkey}) that you can uncomment if you'd like this feature.
+By default, this is disabled. However, I've included a line of code (`CapsLock::Escape`) that you can uncomment if you'd like this feature.
 
 ## Shortcut References
 ![Alt Shortcuts](https://i.imgur.com/qPIbHO5.png)
